@@ -1,0 +1,8 @@
+{
+  "calories": [
+    { "id": 1, "drink": "air putih", "calory": 100 },
+    { "id": 2, "drink": "air merah", "calory": 30 },
+    { "id": 3, "drink": "air hijau", "calory": 10 },
+    { "id": 4, "drink": "air biru", "calory": 20 }
+  ]
+}
